@@ -7,4 +7,3 @@ for x in range(1, 11):
     print(x, x1sqrt, x1exp)
     
 #number 2
-
