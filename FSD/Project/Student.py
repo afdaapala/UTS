@@ -6,3 +6,4 @@ class Student:
     def display(self):
         print("Name:", self.name)
         print("Age:", self.age)
+    
